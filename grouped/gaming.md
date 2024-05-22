@@ -1,0 +1,3 @@
+# Gaming distros
+
+- Garuda

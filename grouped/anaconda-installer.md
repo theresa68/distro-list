@@ -1,0 +1,4 @@
+# Anaconda installer
+
+- Fedora
+- RHEL
